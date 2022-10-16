@@ -3,13 +3,14 @@ body{
 }
 header{
     color:yellowgreen;
-    background-image:url(/image/fondo2.jpg);
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/295/566/373/sky-ultra-wide-eclipse-photography-wallpaper-preview.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
     overflow: hidden;
     text-align: center;
     font-family:fantasy;
+    font-size: x-large;
 }
 nav{
     background-color: aquamarine;
